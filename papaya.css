@@ -11,3 +11,13 @@ h1{
 h1{
     transform: scale(1,5);
 }
+.body {
+    background-color:rgb(240, 255, 255);
+    color: rgb(119, 4, 196);
+}
+
+div> .cardp{
+    border: 1px solid black;
+    box-sizing:content-box;
+    align-items: center;
+}
